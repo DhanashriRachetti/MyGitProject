@@ -6,3 +6,6 @@ update a file for future line
 this is git 
 programming 
 git tool
+
+
+i am fixed the bug
