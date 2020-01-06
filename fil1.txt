@@ -9,3 +9,6 @@ git tool
 
 
 i am fixed the bug
+
+
+this is 2nd bucg and try to tre merge branching
