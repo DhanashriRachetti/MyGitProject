@@ -8,6 +8,11 @@ programming
 git tool
 
 
-i am fixed the bug
+
+
 
 fix or change added by somebody else
+
+
+this is 2nd bucg and try to tre merge branching
+
